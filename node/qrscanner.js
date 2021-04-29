@@ -1,5 +1,4 @@
 const {Telegraf} = require('telegraf')
-const Extra = require('extra')
 const QrCode = require('qrcode-reader')
 const Jimp = require('jimp')
 const bot = new Telegraf('1601138751:AAHDMJm7qHykieHFXKp1BmLDo0q538oG1pI')
